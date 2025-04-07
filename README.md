@@ -76,8 +76,8 @@ We welcome contributions! 🚀 If you'd like to add features or fix issues:
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shanket-kumar-codeex/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/S_anketkumarrrr" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
