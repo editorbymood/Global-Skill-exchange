@@ -39,13 +39,6 @@
 
 ---
 
-<h2 align="center">📸 Sneak Peek</h2>
-<p align="center">
-  <img src="https://your-project-demo.gif" width="800px">
-</p>
-
----
-
 <h2 align="center">💡 How to Get Started</h2>
 
 ```sh
